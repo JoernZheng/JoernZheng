@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yaowen Zheng, and you can call me Joern Zheng, which is my English name.
 - 👀 I’m interested in Computer Science, creating new programs and apply new technologies to real life.
-- 🌱 I’m currently learning Computer Science at USC, USA. I want to be a excellent software engenieer and scientist.
+- 🌱 I’m currently learning Computer Science at USC, USA. I want to be an excellent software engenieer and scientist.
 - 💞️ I’m currently coding and building a website focus on studying abord, which is free and github-like website for every one who have a go-abroad-study dream.
 - 📫 joernzheng@gmail.com or yaowenzh@usc.edu
